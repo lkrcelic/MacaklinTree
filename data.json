@@ -1,0 +1,274 @@
+{
+  "firstName": "Alice",
+  "lastName": "Anderson",
+  "color": "green",
+  "children": [
+    {
+      "firstName": "Bob",
+      "lastName": "Brown",
+      "color": "green",
+      "children": [
+        {
+          "firstName": "Carol",
+          "lastName": "Clark",
+          "color": "green",
+          "children": [
+            {
+              "firstName": "David",
+              "lastName": "Davis",
+              "color": null,
+              "children": [
+                {
+                  "firstName": "Emma",
+                  "lastName": "Evans",
+                  "color": null,
+                  "children": [
+                    {
+                      "firstName": "Fiona",
+                      "lastName": "Foster",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "firstName": "George",
+                      "lastName": "Garcia",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "firstName": "Hannah",
+                      "lastName": "Harrison",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "firstName": "Isaac",
+                      "lastName": "Irwin",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "firstName": "Jack",
+                      "lastName": "Jackson",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "firstName": "Kevin",
+                      "lastName": "King",
+                      "color": null,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Simpson",
+      "color": "green",
+      "children": [
+        {
+          "firstName": "Bob",
+          "lastName": "Brown",
+          "color": "green",
+          "children": [
+            {
+              "firstName": "Fiona",
+              "lastName": "Foster",
+              "color": null,
+              "children": []
+            },
+            {
+              "firstName": "George",
+              "lastName": "Garcia",
+              "color": null,
+              "children": []
+            },
+            {
+              "firstName": "Hannah",
+              "lastName": "Harrison",
+              "color": null,
+              "children": []
+            },
+            {
+              "firstName": "Isaac",
+              "lastName": "Irwin",
+              "color": null,
+              "children": []
+            },
+            {
+              "firstName": "Jack",
+              "lastName": "Jackson",
+              "color": null,
+              "children": []
+            },
+            {
+              "firstName": "Kevin",
+              "lastName": "King",
+              "color": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "firstName": "Theo",
+          "lastName": "Thompson",
+          "color": "green",
+          "children": [
+            {
+              "firstName": "Ulysses",
+              "lastName": "Underwood",
+              "color": null,
+              "children": [
+                {
+                  "firstName": "Victor",
+                  "lastName": "Vargas",
+                  "color": null,
+                  "children": [
+                    {
+                      "firstName": "Wesley",
+                      "lastName": "Walsh",
+                      "color": null,
+                      "children": [
+                        {
+                          "firstName": "Xander",
+                          "lastName": "Xavier",
+                          "color": null,
+                          "children": []
+                        },
+                        {
+                          "firstName": "Yara",
+                          "lastName": "Young",
+                          "color": null,
+                          "children": []
+                        },
+                        {
+                          "firstName": "Zane",
+                          "lastName": "Zimmerman",
+                          "color": null,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstName": "Mia",
+      "lastName": "Miller",
+      "color": "green",
+      "children": [
+        {
+          "firstName": "Quincy",
+          "lastName": "Quinn",
+          "color": null,
+          "children": []
+        },
+        {
+          "firstName": "Ryan",
+          "lastName": "Rodriguez",
+          "color": null,
+          "children": []
+        },
+        {
+          "firstName": "Sophia",
+          "lastName": "Scott",
+          "color": null,
+          "children": []
+        },
+        {
+          "firstName": "Taylor",
+          "lastName": "Taylor",
+          "color": null,
+          "children": []
+        },
+        {
+          "firstName": "Umar",
+          "lastName": "Underwood",
+          "color": null,
+          "children": []
+        },
+        {
+          "firstName": "Violet",
+          "lastName": "Vasquez",
+          "color": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "firstName": "Liam",
+      "lastName": "Lewis",
+      "color": "green",
+      "children": [
+        {
+          "firstName": "Bella",
+          "lastName": "Bennett",
+          "color": null,
+          "children": [
+            {
+              "firstName": "Caleb",
+              "lastName": "Carter",
+              "color": null,
+              "children": [
+                {
+                  "firstName": "Ella",
+                  "lastName": "Edwards",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "firstName": "Finn",
+                  "lastName": "Ferguson",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "firstName": "Daniel",
+                  "lastName": "Daniels",
+                  "color": null,
+                  "children": [
+                    {
+                      "firstName": "Ella",
+                      "lastName": "Edwards",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "firstName": "Finn",
+                      "lastName": "Ferguson",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "firstName": "Grace",
+                      "lastName": "Griffin",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "firstName": "Henry",
+                      "lastName": "Hale",
+                      "color": null,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

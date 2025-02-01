@@ -1,0 +1,54 @@
+/* style.css */
+
+body {
+    font-family: sans-serif;
+    background-color: #f8f8f8;
+    margin: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#tree-container {
+    margin: 0 auto;
+    width: 960px;
+}
+
+/* Style for links between nodes */
+.link {
+    fill: none;
+    stroke: #555;
+    stroke-width: 2px;
+}
+
+/* Ensure foreignObject content is visible */
+.node foreignObject {
+    overflow: visible;
+}
+
+/* Container for the marker and name inside each pill */
+.node foreignObject .container {
+    display: flex;
+    align-items: center;
+    /* The container will stretch to the full width of the pill */
+    width: 100%;
+    height: 100%;
+    font: 12px sans-serif;
+    color: white;
+    /* Padding is set via our computed width; additional padding can be added if desired */
+}
+
+/* Style for the marker (expand/collapse sign) */
+.marker {
+    font-weight: bold;
+    /* Fixed width for marker to help align content (20px, as used in our JS) */
+    width: 20px;
+    text-align: center;
+    margin-right: 10px; /* gap between marker and name */
+}
+
+/* Style for the name text */
+.name {
+    white-space: nowrap;
+}
